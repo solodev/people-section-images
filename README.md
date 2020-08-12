@@ -21,7 +21,7 @@ The tutorial contains the following basic HTML markup.
             <div class="box-information">
               <a href="#" class="no-arrow">
                 <div class="image">
-                  <img alt="Astromedicine - Veronica Gutierrez" class="img-fluid d-none d-md-block" src="https://raw.githubusercontent.com/solodev/people-section-images/master/images/Team_Doctor.jpg">
+                  <img alt="Astromedicine - Veronica Gutierrez" class="img-fluid d-md-block" src="https://raw.githubusercontent.com/solodev/people-section-images/master/images/Team_Doctor.jpg">
                 </div>
                 <div class="text">
                   Veronica Gutierrez
@@ -35,7 +35,7 @@ The tutorial contains the following basic HTML markup.
             <div class="box-information">
               <a href="#" class="no-arrow">
                 <div class="image">
-                  <img alt="Lunar Life Sciences - Jacquelyn Li" class="img-fluid d-none d-md-block" src="https://raw.githubusercontent.com/solodev/people-section-images/master/images/Team_LifeSciences.jpg">
+                  <img alt="Lunar Life Sciences - Jacquelyn Li" class="img-fluid d-md-block" src="https://raw.githubusercontent.com/solodev/people-section-images/master/images/Team_LifeSciences.jpg">
                 </div>
                 <div class="text">
                   Jacquelyn Li
@@ -49,7 +49,7 @@ The tutorial contains the following basic HTML markup.
             <div class="box-information">
               <a href="#" class="no-arrow">
                 <div class="image">
-                  <img alt="XP-1 Base Operations - Adam Paul" class="img-fluid d-none d-md-block" src="https://raw.githubusercontent.com/solodev/people-section-images/master/images/Team_Commander.jpg">
+                  <img alt="XP-1 Base Operations - Adam Paul" class="img-fluid d-md-block" src="https://raw.githubusercontent.com/solodev/people-section-images/master/images/Team_Commander.jpg">
                 </div>
                 <div class="text">
                   Adam Paul
